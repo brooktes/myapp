@@ -1,0 +1,38 @@
+name: brook
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.17.1 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  widgetbook: 2.0.5-beta
+  flutter_svg: ^1.0.3
+  auto_size_text: 3.0.0
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter: 
+  uses-material-design: true
+  assets: 
+    - packages/brook/assets/images/map.png
+    - packages/brook/assets/images/pill.svg
+    - packages/brook/assets/images/oval3.svg
+    - packages/brook/assets/images/arrowleft.svg
+    - packages/brook/assets/images/homeindicator.svg
+    - packages/brook/assets/images/xsmall.svg
+    - packages/brook/assets/images/circle.svg
+    - packages/brook/assets/images/location.svg
+    - packages/brook/assets/images/buttonbg.svg
+    - packages/brook/assets/images/shoppingcart.svg
+    - packages/brook/assets/images/bg.svg
+    - packages/brook/assets/images/chevrondownblack.svg
+    - packages/brook/assets/images/oval2.svg
+    - packages/brook/assets/images/sortlightgray.svg
+    - packages/brook/assets/images/clockwhite.svg
+    - packages/brook/assets/images/planelightgray.svg
+    - packages/brook/assets/images/menu.svg
+    - packages/brook/assets/images/xlightgray.svg
